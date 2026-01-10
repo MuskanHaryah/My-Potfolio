@@ -47,7 +47,7 @@ export default function Greeting() {
                     rel="noopener noreferrer"
                     className="download-link-button"
                   >
-                    <Button text="View Resume" />
+                    <Button text="View My Resume" />
                   </a>
                 )}
                 {greeting.resumeLink && (
