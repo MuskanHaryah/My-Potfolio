@@ -6,3 +6,9 @@
 *.webp binary
 *.woff binary
 
+# Tell GitHub this is a JavaScript project
+* linguist-vendored
+*.js linguist-vendored=false
+*.jsx linguist-vendored=false
+*.scss linguist-vendored=false
+public/index.html linguist-vendored=false
