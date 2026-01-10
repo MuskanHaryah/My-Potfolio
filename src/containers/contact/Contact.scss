@@ -26,6 +26,14 @@
   text-decoration: none;
 }
 
+.contact-location,
+.contact-opportunities {
+  font-size: 28px !important;
+  font-weight: 400;
+  margin-top: 15px !important;
+  color: $subTitle !important;
+}
+
 .contact-detail:hover,
 .contact-detail-email:hover {
   color: $textColor;

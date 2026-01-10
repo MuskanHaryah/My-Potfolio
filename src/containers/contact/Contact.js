@@ -49,6 +49,21 @@ export default function Contact() {
               </a>
               <br />
               <br />
+              {contactInfo.location && (
+                <>
+                  <p className="contact-detail contact-location">
+                    📍 {contactInfo.location}
+                  </p>
+                </>
+              )}
+              {contactInfo.openForOpportunities && (
+                <>
+                  <p className="contact-detail contact-opportunities">
+                    Open for opportunities: {contactInfo.openForOpportunities}
+                  </p>
+                </>
+              )}
+              <br />
               <SocialMedia />
             </div>
           </div>

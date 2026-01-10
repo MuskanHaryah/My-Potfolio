@@ -338,7 +338,9 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  email_address: "muskanharyah36@gmail.com"
+  email_address: "muskanharyah36@gmail.com",
+  location: "Remote",
+  openForOpportunities: "Yes"
 };
 
 // Twitter Section
