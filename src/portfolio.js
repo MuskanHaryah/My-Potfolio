@@ -180,6 +180,7 @@ const openSource = {
 const bigProjects = {
   title: "Big Projects",
   subtitle: "FULL STACK PROJECTS BUILT WITH MODERN TECHNOLOGIES",
+  display: true,
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
