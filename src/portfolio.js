@@ -239,7 +239,7 @@ const achievementSection = {
       title: "AWS Cloud Quest: Cloud Practitioner",
       subtitle:
         "Training Badge from Amazon Web Services. Master cloud computing and AWS services with hands-on experience.",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/awsLogo.png"),
       imageAlt: "AWS Cloud Quest Badge",
       footerLink: [
         {
@@ -265,7 +265,7 @@ const achievementSection = {
     {
       title: "Google AI Essentials V1",
       subtitle: "Certification in AI fundamentals covering Prompt Engineering and Critical Thinking. Issued Oct 2024.",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/googleAssistantLogo.webp"),
       imageAlt: "Google AI Essentials Badge",
       footerLink: [
         {name: "View Credential", url: "https://www.credly.com/badges/7bde7411-3eab-4ea6-8d6c-2aad29547eb6/public_url"}
