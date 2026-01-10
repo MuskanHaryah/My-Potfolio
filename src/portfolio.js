@@ -115,7 +115,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "NED University of Engineering and Technology",
-      logo: require("./assets/images/Ned logo.png"),
+      logo: require("./assets/images/nedLogo.png"),
       subHeader: "Bachelor of Science in Software Engineering",
       duration: "2023 - 2027",
       desc: "Passionate learner pursuing software engineering with focus on full-stack development and AI integration.",
@@ -223,8 +223,7 @@ const bigProjects = {
         }
       ]
     }
-  ],
-  display: true // Set false to hide this section, defaults to true
+  ]
 };
 
 // Achievement Section
