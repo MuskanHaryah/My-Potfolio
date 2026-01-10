@@ -183,7 +183,7 @@ const bigProjects = {
   display: true,
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/Farm2Home.png"),
       projectName: "Farm2Home",
       projectDesc: "Modern e-commerce platform for fresh farm-to-consumer delivery. Built with Django and Stripe integration for secure payments, order management, and automated email notifications with 56+ organic products.",
       footerLink: [
@@ -198,7 +198,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/zoofari.png"),
       projectName: "Molan Zoofari",
       projectDesc: "Comprehensive Zoo Management System with Django backend and REST API. Features animal care management, staff coordination, visitor portal, role-based dashboards, and real-time task management with Cloudinary integration.",
       footerLink: [
@@ -213,7 +213,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/InternshipMgtSys.png"),
       projectName: "Internship Management System",
       projectDesc: "Full-stack MERN platform for managing internship programs. Features admin dashboard, task management, performance tracking, real-time notifications, and dark mode with JWT authentication and MongoDB.",
       footerLink: [
